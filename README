@@ -12,6 +12,12 @@ Usage:
        And, if you set g:copypath_copy_to_unnamed_register option to 1 then,
        copy file full path to unnamed register too.
        Default, not copy to unnamed register.
+       
+   :CopyRelativePath
+       copy current editing file relative path to clipboard.
+       And, if you set g:copypath_copy_to_unnamed_register option to 1 then,
+       copy file full path to unnamed register too.
+       Default, not copy to unnamed register.
 
    :CopyFileName
        copy current editing file name to clipboard.
