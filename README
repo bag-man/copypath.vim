@@ -1,4 +1,6 @@
-This is a mirror of http://www.vim.org/scripts/script.php?script_id=1456
+I have forked this, and added a function to copy the relative path of a file from the CWD
+
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1456 
 
 Usage:
    This script adds two new command ":CopyPath" and ":CopyFileName".
