@@ -1,4 +1,4 @@
-I have forked this, and added a function to copy the relative path of a file from the CWD
+I have forked this, and added a function to copy the relative path of a file from the CWD. I map "cp" to ":CopyRelativePath<cr>" which makes running tests a lot easier. 
 
 Usage:
    This script adds two new command ":CopyPath" and ":CopyFileName".
